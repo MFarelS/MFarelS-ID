@@ -313,7 +313,7 @@ header
 
 .header-area .main-nav .logo {
   line-height: 80px;
-  color: #000;
+  color: #fff;
   font-size: 28px;
   font-weight: 700;
   text-transform: uppercase;
@@ -354,7 +354,7 @@ header
   display: block;
   font-weight: 500;
   font-size: 13px;
-  color: #000;
+  color: #f00;
   text-transform: uppercase;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
